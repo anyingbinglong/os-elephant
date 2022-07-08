@@ -1,4 +1,4 @@
-# 《操作系统真象还原》札记
+# 《操作系统真象还原》
 
 ![os-elephant](doc/image/os-elephant.png)
 
@@ -31,11 +31,6 @@ Something I hope you know before go into the coding~
 First, please watch or star this repo, I'll be more happy if you follow me.
 Bug report, questions and discussion are welcome, you can post an issue or pull a request.
 ```
-
-## 相关网址
-
-* GitBook地址:<https://yifengyou.gitbooks.io/os-elephant/content/>
-* GitHub地址:<https://github.com/yifengyou/os-elephant>
 
 ## 我的任务
 
